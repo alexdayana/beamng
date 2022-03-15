@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7453125654529874/3036100607",
+			"native": "ca-app-pub-7453125654529874/8096855597",
+			"interstitial": "ca-app-pub-7453125654529874/4327456388"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1355917-2",
+			"native": "R-M-1355917-3",
+			"interstitial": "R-M-1355917-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "laila10 ",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Use a Controller",
+"description": " When I first played the game, I thought I could get away with playing it using a keyboard and mouse. This was my first difficulty with the game as I found that the cars were very difficult to control and were prone to under-steering. I did eventually get used to simply tapping the arrow keys to steer more accurately with the keyboard as well as settling on a car that I found to be easily controllable with the keyboard, the Ibishu Covet. This, however, was far from ideal as the game really wasn’t designed to be played with a keyboard and mouse. It wasn’t until I plugged in my PlayStation 4’s DualShock 4 controller that I realized what I was missing out on. Immediately, I was able to take control of any vehicle and drive it with ease. For that reason, I highly recommend that you use a controller with this game for a much better playing experience. It doesn’t even need to be a fancy racing wheel or anything of the sort, just simply a game controller like a PlayStation or Xbox controller. " 
+},
+		{
+"title": "Retry/Reload are your Friends",
+"description": " For an experimental physics game, you’ll want to repeat your simulations over and over trying out different things. In order to do this easily, you can use the ‘Reload Vehicle’ and ‘Retry Scenario’ options By default, Reload Vehicle is mapped to Ctrl + R and upon using this key combination, the game will reload your vehicle in a fixed state in its current position. This is useful for if you crash your car while in the middle of something and do not want to start over from the beginning. "
+		},
+		{
+"title": "Slow-Motion",
+"description": " One of my favorite features of BeamNG.drive is the ability to watch your crashes in slow motion. The developer included the feature natively and it can be activated by using the default keys ‘Alt’ and ‘Left Arrow’ to slow down time in increments of 2, 4, 8, 16, 100 times slower than real-time. Using ‘Alt’ and ‘Right Arrow’ will speed things up again in reverse. Furthermore, you can use ‘Alt’ and ‘Down Arrow’ to quickly activate slow-motion at 8 times slower than real-time and ‘Alt’ and ‘Up Arrow’ to switch back to real-time Personally, I use the PlayStation 4 DualShock 4 controller and I have the shortcut to quickly go 8 times slower than real-time mapped to the L1 button and the real-time shortcut mapped to the R1 button. This allows me to quickly activate slow-motion and jump back to real-time with ease during gameplay.  "
+		},
+		{
+"title": "Changing Vehicles and Using Multiple Vehicles  ",
+"description": "One keyboard shortcut that you’ll be using frequently is the ‘Ctrl + E’ combination to open the vehicle selection menu. This allows you to quickly spawn a new vehicle or some of the more frequently used obstacles and props, such as pylons, cinder block walls, and barriers to name a few. You have two choices when spawning new vehicles or props – Spawn New or Replace Current. Both options are self explanatory, Spawn New will spawn a new instance of the particular vehicle or prop while leaving your current vehicle and Replace Current will swap your current vehicle with the new vehicle or prop If you choose to spawn a new vehicle leaving yourself with multiple vehicles on the map, you can simply cycle through them using the ‘Tab’ key. Furthermore, you can cycle in reverse order using the ‘Shift + Tab’ keyboard combination. "
+		},
+		{
+"title": "Mods",
+"description": "My last tip is to check out some of the mods that are available for the game This includes vehicles maps props and more and they’re available directly on the developer’s . It’s extremely easy to install the mods for the game Simply download one from the site and save the .zip file in your My Documents BeamNG.driv mods folder. There is no need to unzip any of the files and the game will simply load the mods automatically next time you launch it check out my Mod Reviews page for in-depth reviews of BeamNG.drive mods!   "
+		}
+	]
+}
